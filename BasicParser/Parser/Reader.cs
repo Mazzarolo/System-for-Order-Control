@@ -15,7 +15,7 @@ namespace BasicParser
 
         public void LoadFiles()
         {
-            string folderPath = Path.Combine(Environment.CurrentDirectory, @"Files\");
+            string folderPath = "Files/";
             Console.WriteLine("Loading files from: " + folderPath);
             foreach (string file in Directory.EnumerateFiles(folderPath, "*.txt"))
             {
