@@ -1,0 +1,15 @@
+J:\Programação\C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.exe
+J:\Programação\C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.deps.json
+J:\Programação\C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.runtimeconfig.json
+J:\Programação\C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.dll
+J:\Programação\C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.pdb
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.csproj.AssemblyReference.cache
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.AssemblyInfoInputs.cache
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.AssemblyInfo.cs
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.csproj.CoreCompileInputs.cache
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.dll
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\refint\BasicParser.dll
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.pdb
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.genruntimeconfig.cache
+J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\ref\BasicParser.dll
