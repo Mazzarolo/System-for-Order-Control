@@ -1,42 +1,49 @@
 ﻿using System;
 using System.IO;
+using Objects;
 
-namespace BasicParser
+namespace Parser
 {
     class Reader
     {
-        private List<String> files;
+        private List<Note> files;
 
         public Reader() 
         {
-            Console.WriteLine("New Parser created");
-            files = new List<String>();
+            files = new List<Note>();
         }
 
         public void LoadFiles()
         {
             string folderPath = "Files/";
-            Console.WriteLine("Loading files from: " + folderPath);
-            foreach (string file in Directory.EnumerateFiles(folderPath, "*.txt"))
+
+            foreach (string path in Directory.EnumerateFiles(folderPath, "*.txt"))
             {
-                files.Add(File.ReadAllText(file));
+                files.Add(new Note(path));
             }
         }
 
         public void PrintFiles()
         {
-            foreach (string file in files)
+            foreach (Note file in files)
             {
-                Console.WriteLine(file);
+                file.Print();
+            }
+        }
+
+        public void PrintInfo()
+        {
+            foreach (Note file in files)
+            {
+                file.PrintInfo();
             }
         }
 
         public void ParseFiles()
         {
-            Parser parser = new Parser();
-            foreach (string file in files)
+            foreach (Note file in files)
             {
-                parser.PrintFirstLine(file);
+                file.Parse();
             }
         }
     }

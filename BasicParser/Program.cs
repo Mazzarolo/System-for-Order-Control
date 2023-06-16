@@ -1,4 +1,4 @@
-﻿using BasicParser;
+﻿using Parser;
 using System;
 
 namespace Application
@@ -10,6 +10,7 @@ namespace Application
             Reader reader = new Reader();
             reader.LoadFiles();
             reader.ParseFiles();
+            reader.PrintInfo();
         }
     }
 }
