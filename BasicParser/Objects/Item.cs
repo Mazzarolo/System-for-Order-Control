@@ -61,5 +61,35 @@ namespace Objects
         {
             return sectors;
         }
+
+        public void PrintComposition()
+        {
+            Console.WriteLine("Código: " + composition.GetCode() + ".");
+            Console.WriteLine("Material: " + composition.GetMaterial() + ".");
+            Console.WriteLine("Quantidade: " + composition.GetQuantity() + ".");
+            Console.WriteLine("Unidade: " + composition.GetUnit() + ".");
+            Console.WriteLine();
+        }
+
+        public void PrintSectors()
+        {
+            foreach (Sector sector in sectors)
+            {
+                sector.Print();
+            }
+        }
+
+        public void Print()
+        {
+            Console.WriteLine("Código: " + code + ".");
+            Console.WriteLine("Descrição: " + description + ".");
+            Console.WriteLine("Quantidade: " + quantity + ".");
+            Console.WriteLine("Unidade: " + unit + ".");
+            Console.WriteLine("Composição:");
+            PrintComposition();
+            Console.WriteLine("Setores:");
+            PrintSectors();
+            Console.WriteLine();
+        }
     }
 }

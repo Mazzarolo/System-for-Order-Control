@@ -25,5 +25,10 @@ namespace BasicParser.Objects
         {
             return description;
         }
+
+        public void Print()
+        {
+            Console.WriteLine("Sector: {0} - {1}.", code, description);
+        }
     }
 }

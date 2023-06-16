@@ -33,8 +33,10 @@ namespace Parser
 
         public void PrintInfo()
         {
+            int i = 1;
             foreach (Note file in files)
             {
+                Console.WriteLine("Nota {0}:", i++);
                 file.PrintInfo();
             }
         }
