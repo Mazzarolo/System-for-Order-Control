@@ -1,0 +1,38 @@
+
+
+   Digital Way                                           Vabene                                                    DATA : 16/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   ORDEM DE PRODUÇÃO: 020624                      PEDIDO : 038634               EMISSÃO : 06/06/2023              SAÍDA : 07/07/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CLIENTE : 0878 - ROBUSTEC INDUSTRIA E COMERCIO LTDA
+   REQUISITANTE :                                           APLICAÇÃO : 
+   TRANSPORTADORA : 0016 - EXPRESSO LEOMAR LTDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   30.330.00118.B     RB MAC FE (4,76 X 50,80) PL 07.05                                   MI                     70     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       553   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2010 PRENSA HC 15 CAP 5,50MM   __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.331.00038.A     RB STUB FE (6,35 X 22,22) PL 07.146                                 MI                     50     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       325   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2011 PRENSA HC25 CAP 8,00MM    __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.330.00242.N     RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378                       MI                      5     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+      22,4   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2012 PRENSA LIAN TENG          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Observações : 6441

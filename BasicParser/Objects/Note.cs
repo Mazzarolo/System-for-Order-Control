@@ -43,7 +43,7 @@ namespace Objects
                 {
                     itemDescription += " " + lines[i + offset].ToString().Substring(22).Replace(" ", "");
                 }
-                string itemUnit = lines[i].ToString().Substring(91, 3).Replace(" ", "");
+                string itemUnit = lines[i].ToString().Substring(90, 3).Replace(" ", "");
                 string itemQuantity = lines[i].ToString().Substring(105, 11).Replace(" ", "");
                 items.Add(new Item(itemCode, itemDescription, itemQuantity, itemUnit));
                 while (lines[i].ToString().Replace(" ", "").Length > 0)
@@ -56,10 +56,10 @@ namespace Objects
                 
                 while (i < lines.Count - 6)
                 {
-                    string sectorCode = lines[i].ToString().Substring(90, 4).Replace(" ", "");
+                    string sectorCode = lines[i].ToString().Substring(84, 4).Replace(" ", "");
                     if(sectorCode.Length == 4 && !sectorCode.Equals("----"))
                     {
-                        ((Item)items[items.Count - 1]).AddSector(new Sector(sectorCode, Regex.Split(lines[i].ToString().Substring(98), @" {2,8}")[0]));
+                        ((Item)items[items.Count - 1]).AddSector(new Sector(sectorCode, Regex.Split(lines[i].ToString().Substring(89), @" {2,8}")[0]));
                     }
                     if (lines[i + 1].ToString().Replace(" ", "").Length == 0)
                     {
@@ -71,7 +71,7 @@ namespace Objects
                     {
                         i++;
                     }
-                    if (lines[i].ToString().Substring(90, 4).Replace(" ", "").Length == 2)
+                    if (lines[i].ToString().Substring(89, 4).Replace(" ", "").Length == 2)
                     {
                         i--;
                         break;

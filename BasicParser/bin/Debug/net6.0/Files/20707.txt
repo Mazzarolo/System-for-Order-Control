@@ -1,0 +1,38 @@
+
+
+   Digital Way                                           Vabene                                                    DATA : 16/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   ORDEM DE PRODUÇÃO: 020707                      PEDIDO : 038706               EMISSÃO : 15/06/2023              SAÍDA : 30/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CLIENTE : 0945 - G FIX COMERCIAL DE FERRAGENS - ME 
+   REQUISITANTE :                                           APLICAÇÃO : 
+   TRANSPORTADORA : 0052 - TRANSPORTES PRATAVERA LTDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   36.700.00159.N     RB INOX (6,35 X 10,00) PL                                           MI                      5     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+      15,5   KG  _______    87.036.00200.N ARM INOX 304 L Ø6,20                     2009 PRENSA JBF-10B4S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   36.700.00156.N     RB INOX (6,35 X 13,00) PL                                           MI                      5     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+     19,25   KG  _______    87.036.00200.N ARM INOX 304 L Ø6,20                     2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+                                                                                    2009 PRENSA JBF-10B4S          __________________
+
+   36.700.00043.N     RB INOX (5/16 X 18,00) PL                                           MI                      2     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+        15   KG  _______    87.036.00203.N ARM INOX 304 L Ø7,70                     2009 PRENSA JBF-10B4S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Observações : 8619

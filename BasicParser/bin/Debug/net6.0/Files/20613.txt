@@ -1,0 +1,65 @@
+
+
+   Digital Way                                           Vabene                                                    DATA : 16/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   ORDEM DE PRODUÇÃO: 020613                      PEDIDO : 038623               EMISSÃO : 06/06/2023              SAÍDA : 05/07/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CLIENTE : 0294 - ROMETAL COMPONENTES PARA MÓVEIS LTDA
+   REQUISITANTE :                                           APLICAÇÃO : 
+   TRANSPORTADORA : 0026 - METALURGICA VABENE LTDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   30.330.00112.N     SP 213/5 - 567                                                      MI                     50     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       150   KG  _______    80.030.00080.N ARM FE 1004 Ø4,80                        2010 PRENSA HC 15 CAP 5,50MM   __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.360.00009.B     PF FE (M5 X 8,00) ESP PHILIPS 3802                                  MI                     20     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+        64   KG  _______    80.030.00045.N ARM FE 1004 Ø4,30                        2010 PRENSA HC 15 CAP 5,50MM   __________________
+                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.360.00225.B     PF FE (PLASTIC 3,50 X 14,50) PL PHILIPS 8742                        MI                     50     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+        41   KG  _______    80.030.00009.N ARM FE 1004 Ø2,72                        2013 PRENSA I                  __________________
+                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.331.00192.B     RB STUB FE (3,80 X 17,30) PL 9007                                   MI                     40     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+        80   KG  _______    80.030.00015.N ARM FE 1004 Ø3,76                        2027 PRENSA KF (AJK)           __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.360.00308.B     PF FE (M4 X 14,50) CIL ALLEN 2,5 11372                              MI                     12     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+      20,4   KG  _______    80.030.00010.N ARM FE 1004 Ø3,40                        2027 PRENSA KF (AJK)           __________________
+                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________
+                                                                                    0006 ESCRITORIO                __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+
+   30.330.00214.B     RB MAC FE (5,90 X 26,00) PL 6152                                    MI                     40     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+     228,4   KG  _______    80.030.00120.N ARM FE 1004 Ø5,80                        2011 PRENSA HC25 CAP 8,00MM    __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Observações : 46201

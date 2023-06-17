@@ -1,0 +1,41 @@
+
+
+   Digital Way                                           Vabene                                                    DATA : 16/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   ORDEM DE PRODUÇÃO: 020662                      PEDIDO : 038666               EMISSÃO : 13/06/2023              SAÍDA : 30/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CLIENTE : 0272 - TECHPRESS INDUSTRIA DE PLASTICOS EIRELI
+   REQUISITANTE :                                           APLICAÇÃO : 
+   TRANSPORTADORA : 0018 - EXPRESSO SAO MIGUEL 
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   30.360.00029.A     PF FE K1M4R                                                         MI                     30     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+        87   KG  _______    80.030.05060.N ARM FE RR 1004 Ø5,80                     2009 PRENSA JBF-10B4S          __________________
+                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.360.00031.A     PF FE K1M5                                                          MI                     20     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       132   KG  _______    80.030.05160.N ARM FE RR 1004 Ø7,76                     2001 PRENSA JBP-13B5S          __________________
+                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.360.00032.A     PF FE K1M6                                                          MI                     10     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       114   KG  _______    80.030.05200.N ARM FE RR 1004 Ø8,84                     2001 PRENSA JBP-13B5S          __________________
+                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Observações : VERBAL PATRICIA

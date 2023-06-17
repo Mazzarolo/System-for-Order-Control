@@ -1,0 +1,62 @@
+
+
+   Digital Way                                           Vabene                                                    DATA : 16/06/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   ORDEM DE PRODUÇÃO: 020059                      PEDIDO : 038137               EMISSÃO : 11/04/2023              SAÍDA : 10/07/2023
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CLIENTE : 1137 - MAKEN ACESSORIOS EM METAL LTDA
+   REQUISITANTE :                                           APLICAÇÃO : 
+   TRANSPORTADORA : 0062 - FORT LOG EIRELLI ME - CHT LOG
+   ----------------------------------------------------------------------------------------------------------------------------------
+   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA
+   ----------------------------------------------------------------------------------------------------------------------------------
+   30.330.00289.N     RB MAC FE (4,70 X 18,50) PL - 91                                    MI                    100     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+     297,3   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2012 PRENSA LIAN TENG          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.331.00207.N     RB STUB FE (4,76 X 23,50) PL - 4893                                 MI                    100     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+      38,6   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2010 PRENSA HC 15 CAP 5,50MM   __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.333.00078.N     RB ESC FE (6,90 X 5,00) (7,80 X 5,00) PL 283                        MI                    300     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+      1290   KG  _______    80.030.00145.N ARM FE 1004 Ø7,70                        2009 PRENSA JBF-10B4S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.333.00095.N     RB ESC FE(6,9X5,5)(8,5X2,5)(11,5X3,3)PL 1351                        MI                    100     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       750   KG  _______    80.030.05220.N ARM FE RR 1004 Ø9,30                     2001 PRENSA JBP-13B5S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.334.00097.N     PINO FE (10,00 X 21,50) COM ROSCA INT M6 7237                       UN                  10000     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       140   KG  _______    80.030.05260.N ARM FE RR 1004 Ø10,70                    2001 PRENSA JBP-13B5S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   30.334.00098.N     PINO FE (10,00 X 30,40) COM ROSCA INT M6 7238                       UN                  10000     _____________
+
+                            COMPOSIÇÃO                                              SETORES
+       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.
+       248   KG  _______    80.030.05260.N ARM FE RR 1004 Ø10,70                    2001 PRENSA JBP-13B5S          __________________
+                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________
+                                                                                    0006 ESCRITORIO                __________________
+
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Observações : 3173
