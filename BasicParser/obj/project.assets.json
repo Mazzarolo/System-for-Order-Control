@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Programação\\C#\\BasicParser\\BasicParser\\BasicParser.csproj",
+      "projectUniqueName": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\BasicParser.csproj",
       "projectName": "BasicParser",
-      "projectPath": "J:\\Programação\\C#\\BasicParser\\BasicParser\\BasicParser.csproj",
+      "projectPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\BasicParser.csproj",
       "packagesPath": "C:\\Users\\jdrma\\.nuget\\packages\\",
-      "outputPath": "J:\\Programação\\C#\\BasicParser\\BasicParser\\obj\\",
+      "outputPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jdrma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

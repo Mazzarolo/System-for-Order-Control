@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Data">
+	<notes xmlns:d2p1="http://schemas.datacontract.org/2004/07/Objects">
+		<d2p1:Note>
+			<d2p1:client>1137 - MAKEN ACESSORIOS EM METAL LTDA</d2p1:client>
+			<d2p1:endDate>10/07/2023</d2p1:endDate>
+			<d2p1:id>038137</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.330.00289.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00060.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø4,60</d6p1:material>
+						<d6p1:quantity>297,3</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (4,70 X 18,50) PL - 91</d2p1:description>
+					<d2p1:quantity>100</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2012</d6p1:code>
+							<d6p1:description>PRENSA LIAN TENG</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.331.00207.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00060.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø4,60</d6p1:material>
+						<d6p1:quantity>38,6</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB STUB FE (4,76 X 23,50) PL - 4893</d2p1:description>
+					<d2p1:quantity>100</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2010</d6p1:code>
+							<d6p1:description>PRENSA HC 15 CAP 5,50MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.333.00078.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00145.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø7,70</d6p1:material>
+						<d6p1:quantity>1290</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB ESC FE (6,90 X 5,00) (7,80 X 5,00) PL 283</d2p1:description>
+					<d2p1:quantity>300</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.333.00095.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05220.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø9,30</d6p1:material>
+						<d6p1:quantity>750</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB ESC FE(6,9X5,5)(8,5X2,5)(11,5X3,3)PL 1351</d2p1:description>
+					<d2p1:quantity>100</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.334.00097.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05260.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø10,70</d6p1:material>
+						<d6p1:quantity>140</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PINO FE (10,00 X 21,50) COM ROSCA INT M6 7237</d2p1:description>
+					<d2p1:quantity>10000</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>UN</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.334.00098.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05260.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø10,70</d6p1:material>
+						<d6p1:quantity>248</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PINO FE (10,00 X 30,40) COM ROSCA INT M6 7238</d2p1:description>
+					<d2p1:quantity>10000</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>UN</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020059                      PEDIDO : 038137               EMISSÃO : 11/04/2023              SAÍDA : 10/07/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 1137 - MAKEN ACESSORIOS EM METAL LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0062 - FORT LOG EIRELLI ME - CHT LOG</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.330.00289.N     RB MAC FE (4,70 X 18,50) PL - 91                                    MI                    100     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>     297,3   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2012 PRENSA LIAN TENG          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.331.00207.N     RB STUB FE (4,76 X 23,50) PL - 4893                                 MI                    100     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      38,6   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2010 PRENSA HC 15 CAP 5,50MM   __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.333.00078.N     RB ESC FE (6,90 X 5,00) (7,80 X 5,00) PL 283                        MI                    300     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      1290   KG  _______    80.030.00145.N ARM FE 1004 Ø7,70                        2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.333.00095.N     RB ESC FE(6,9X5,5)(8,5X2,5)(11,5X3,3)PL 1351                        MI                    100     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       750   KG  _______    80.030.05220.N ARM FE RR 1004 Ø9,30                     2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.334.00097.N     PINO FE (10,00 X 21,50) COM ROSCA INT M6 7237                       UN                  10000     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       140   KG  _______    80.030.05260.N ARM FE RR 1004 Ø10,70                    2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.334.00098.N     PINO FE (10,00 X 30,40) COM ROSCA INT M6 7238                       UN                  10000     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       248   KG  _______    80.030.05260.N ARM FE RR 1004 Ø10,70                    2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 3173</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020059</d2p1:order>
+			<d2p1:startDate>11/04/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0294 - ROMETAL COMPONENTES PARA MÓVEIS LTDA</d2p1:client>
+			<d2p1:endDate>05/07/2023</d2p1:endDate>
+			<d2p1:id>038623</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.330.00112.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00080.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø4,80</d6p1:material>
+						<d6p1:quantity>150</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>SP 213/5 - 567</d2p1:description>
+					<d2p1:quantity>50</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2010</d6p1:code>
+							<d6p1:description>PRENSA HC 15 CAP 5,50MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.360.00009.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00045.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø4,30</d6p1:material>
+						<d6p1:quantity>64</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE (M5 X 8,00) ESP PHILIPS 3802</d2p1:description>
+					<d2p1:quantity>20</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2010</d6p1:code>
+							<d6p1:description>PRENSA HC 15 CAP 5,50MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2004</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 8</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.360.00225.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00009.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø2,72</d6p1:material>
+						<d6p1:quantity>41</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE (PLASTIC 3,50 X 14,50) PL PHILIPS 8742</d2p1:description>
+					<d2p1:quantity>50</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2013</d6p1:code>
+							<d6p1:description>PRENSA I</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2006</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 4</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.331.00192.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00015.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø3,76</d6p1:material>
+						<d6p1:quantity>80</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB STUB FE (3,80 X 17,30) PL 9007</d2p1:description>
+					<d2p1:quantity>40</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2027</d6p1:code>
+							<d6p1:description>PRENSA KF (AJK)</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.360.00308.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00010.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø3,40</d6p1:material>
+						<d6p1:quantity>20,4</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE (M4 X 14,50) CIL ALLEN 2,5 11372</d2p1:description>
+					<d2p1:quantity>12</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2027</d6p1:code>
+							<d6p1:description>PRENSA KF (AJK)</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2006</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 4</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.330.00214.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00120.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø5,80</d6p1:material>
+						<d6p1:quantity>228,4</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (5,90 X 26,00) PL 6152</d2p1:description>
+					<d2p1:quantity>40</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020613                      PEDIDO : 038623               EMISSÃO : 06/06/2023              SAÍDA : 05/07/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0294 - ROMETAL COMPONENTES PARA MÓVEIS LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0026 - METALURGICA VABENE LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.330.00112.N     SP 213/5 - 567                                                      MI                     50     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       150   KG  _______    80.030.00080.N ARM FE 1004 Ø4,80                        2010 PRENSA HC 15 CAP 5,50MM   __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.360.00009.B     PF FE (M5 X 8,00) ESP PHILIPS 3802                                  MI                     20     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        64   KG  _______    80.030.00045.N ARM FE 1004 Ø4,30                        2010 PRENSA HC 15 CAP 5,50MM   __________________</d4p1:string>
+				<d4p1:string>                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.360.00225.B     PF FE (PLASTIC 3,50 X 14,50) PL PHILIPS 8742                        MI                     50     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        41   KG  _______    80.030.00009.N ARM FE 1004 Ø2,72                        2013 PRENSA I                  __________________</d4p1:string>
+				<d4p1:string>                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.331.00192.B     RB STUB FE (3,80 X 17,30) PL 9007                                   MI                     40     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        80   KG  _______    80.030.00015.N ARM FE 1004 Ø3,76                        2027 PRENSA KF (AJK)           __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.360.00308.B     PF FE (M4 X 14,50) CIL ALLEN 2,5 11372                              MI                     12     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      20,4   KG  _______    80.030.00010.N ARM FE 1004 Ø3,40                        2027 PRENSA KF (AJK)           __________________</d4p1:string>
+				<d4p1:string>                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.330.00214.B     RB MAC FE (5,90 X 26,00) PL 6152                                    MI                     40     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>     228,4   KG  _______    80.030.00120.N ARM FE 1004 Ø5,80                        2011 PRENSA HC25 CAP 8,00MM    __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 46201</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020613</d2p1:order>
+			<d2p1:startDate>06/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0878 - ROBUSTEC INDUSTRIA E COMERCIO LTDA</d2p1:client>
+			<d2p1:endDate>07/07/2023</d2p1:endDate>
+			<d2p1:id>038634</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.330.00118.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00060.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø4,60</d6p1:material>
+						<d6p1:quantity>553</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (4,76 X 50,80) PL 07.05</d2p1:description>
+					<d2p1:quantity>70</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2010</d6p1:code>
+							<d6p1:description>PRENSA HC 15 CAP 5,50MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.331.00038.A</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00140.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø6,20</d6p1:material>
+						<d6p1:quantity>325</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB STUB FE (6,35 X 22,22) PL 07.146</d2p1:description>
+					<d2p1:quantity>50</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2011</d6p1:code>
+							<d6p1:description>PRENSA HC25 CAP 8,00MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.330.00242.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00140.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø6,20</d6p1:material>
+						<d6p1:quantity>22,4</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378</d2p1:description>
+					<d2p1:quantity>5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020624                      PEDIDO : 038634               EMISSÃO : 06/06/2023              SAÍDA : 07/07/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0878 - ROBUSTEC INDUSTRIA E COMERCIO LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0016 - EXPRESSO LEOMAR LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.330.00118.B     RB MAC FE (4,76 X 50,80) PL 07.05                                   MI                     70     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       553   KG  _______    80.030.00060.N ARM FE 1004 Ø4,60                        2010 PRENSA HC 15 CAP 5,50MM   __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.331.00038.A     RB STUB FE (6,35 X 22,22) PL 07.146                                 MI                     50     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       325   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2011 PRENSA HC25 CAP 8,00MM    __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.330.00242.N     RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378                       MI                      5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      22,4   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2012 PRENSA LIAN TENG          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 6441</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020624</d2p1:order>
+			<d2p1:startDate>06/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0272 - TECHPRESS INDUSTRIA DE PLASTICOS EIRELI</d2p1:client>
+			<d2p1:endDate>30/06/2023</d2p1:endDate>
+			<d2p1:id>038666</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.360.00029.A</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05060.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø5,80</d6p1:material>
+						<d6p1:quantity>87</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE K1M4R</d2p1:description>
+					<d2p1:quantity>30</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2006</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 4</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.360.00031.A</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05160.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø7,76</d6p1:material>
+						<d6p1:quantity>132</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE K1M5</d2p1:description>
+					<d2p1:quantity>20</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2004</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 8</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.360.00032.A</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05200.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø8,84</d6p1:material>
+						<d6p1:quantity>114</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE K1M6</d2p1:description>
+					<d2p1:quantity>10</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020662                      PEDIDO : 038666               EMISSÃO : 13/06/2023              SAÍDA : 30/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0272 - TECHPRESS INDUSTRIA DE PLASTICOS EIRELI</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0018 - EXPRESSO SAO MIGUEL </d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.360.00029.A     PF FE K1M4R                                                         MI                     30     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        87   KG  _______    80.030.05060.N ARM FE RR 1004 Ø5,80                     2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2006 LAMINADORA DE ROSCA CTR 4 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.360.00031.A     PF FE K1M5                                                          MI                     20     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       132   KG  _______    80.030.05160.N ARM FE RR 1004 Ø7,76                     2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.360.00032.A     PF FE K1M6                                                          MI                     10     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>       114   KG  _______    80.030.05200.N ARM FE RR 1004 Ø8,84                     2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : VERBAL PATRICIA</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020662</d2p1:order>
+			<d2p1:startDate>13/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>1409 - PROLATECH INDÚSTRIA E COMÉRCIO DE ACESSÓRIOS LTDA</d2p1:client>
+			<d2p1:endDate>30/06/2023</d2p1:endDate>
+			<d2p1:id>038694</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.334.00112.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.05220.N</d6p1:code>
+						<d6p1:material>ARM FE RR 1004 Ø9,30</d6p1:material>
+						<d6p1:quantity>81,4</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PINO FE (Ø7,90 X 75,00) QUEBRA DEDO</d2p1:description>
+					<d2p1:quantity>2000</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>UN</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.334.00045.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00360.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø9,80</d6p1:material>
+						<d6p1:quantity>437,64</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PINO FE (10,00 X 74,00) QUEBRA DEDO</d2p1:description>
+					<d2p1:quantity>7000</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>PC</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020695                      PEDIDO : 038694               EMISSÃO : 15/06/2023              SAÍDA : 30/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 1409 - PROLATECH INDÚSTRIA E COMÉRCIO DE ACESSÓRIOS LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0083 - TRANS MUNARETTI LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.334.00112.N     PINO FE (Ø7,90 X 75,00) QUEBRA DEDO                                 UN                   2000     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      81,4   KG  _______    80.030.05220.N ARM FE RR 1004 Ø9,30                     2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.334.00045.N     PINO FE (10,00 X 74,00) QUEBRA DEDO                                 PC                   7000     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>    437,64   KG  _______    80.030.00360.N ARM FE 1004 Ø9,80                        2001 PRENSA JBP-13B5S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 715</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020695</d2p1:order>
+			<d2p1:startDate>15/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0861 - VSM IND. E COM. DE PRODUTOS METALURGICOS LTDA</d2p1:client>
+			<d2p1:endDate>28/08/2023</d2p1:endDate>
+			<d2p1:id>038703</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>37.331.00030.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>84.037.01033.N</d6p1:code>
+						<d6p1:material>ARM AL Ø9,40</d6p1:material>
+						<d6p1:quantity>36</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB STUB AL (9,80 X 12,50) PL C/ROSCA INT. 1/4</d2p1:description>
+					<d2p1:quantity>15</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020702                      PEDIDO : 038703               EMISSÃO : 15/06/2023              SAÍDA : 28/08/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0861 - VSM IND. E COM. DE PRODUTOS METALURGICOS LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 9999 - PROPRIO</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   37.331.00030.N     RB STUB AL (9,80 X 12,50) PL C/ROSCA INT. 1/4                       MI                     15     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        36   KG  _______    84.037.01033.N ARM AL Ø9,40                             2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 7827</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020702</d2p1:order>
+			<d2p1:startDate>15/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0945 - G FIX COMERCIAL DE FERRAGENS - ME </d2p1:client>
+			<d2p1:endDate>30/06/2023</d2p1:endDate>
+			<d2p1:id>038706</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>36.700.00159.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>87.036.00200.N</d6p1:code>
+						<d6p1:material>ARM INOX 304 L Ø6,20</d6p1:material>
+						<d6p1:quantity>15,5</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB INOX (6,35 X 10,00) PL</d2p1:description>
+					<d2p1:quantity>5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>36.700.00156.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>87.036.00200.N</d6p1:code>
+						<d6p1:material>ARM INOX 304 L Ø6,20</d6p1:material>
+						<d6p1:quantity>19,25</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB INOX (6,35 X 13,00) PL</d2p1:description>
+					<d2p1:quantity>5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>36.700.00043.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>87.036.00203.N</d6p1:code>
+						<d6p1:material>ARM INOX 304 L Ø7,70</d6p1:material>
+						<d6p1:quantity>15</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB INOX (5/16 X 18,00) PL</d2p1:description>
+					<d2p1:quantity>2</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020707                      PEDIDO : 038706               EMISSÃO : 15/06/2023              SAÍDA : 30/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0945 - G FIX COMERCIAL DE FERRAGENS - ME </d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0052 - TRANSPORTES PRATAVERA LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   36.700.00159.N     RB INOX (6,35 X 10,00) PL                                           MI                      5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      15,5   KG  _______    87.036.00200.N ARM INOX 304 L Ø6,20                     2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   36.700.00156.N     RB INOX (6,35 X 13,00) PL                                           MI                      5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>     19,25   KG  _______    87.036.00200.N ARM INOX 304 L Ø6,20                     2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string>                                                                                    2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   36.700.00043.N     RB INOX (5/16 X 18,00) PL                                           MI                      2     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        15   KG  _______    87.036.00203.N ARM INOX 304 L Ø7,70                     2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 8619</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020707</d2p1:order>
+			<d2p1:startDate>15/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>1438 - DFIX INDUSTRIA DE FERRAMENTAS E PLASTICOS LTDA</d2p1:client>
+			<d2p1:endDate>23/06/2023</d2p1:endDate>
+			<d2p1:id>038714</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>36.700.00241.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>87.036.00025.N</d6p1:code>
+						<d6p1:material>ARM INOX 304 L Ø3,07</d6p1:material>
+						<d6p1:quantity>2,25</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB INOX (1/8 X 9,00) PL (CABEÇA Ø5,50)</d2p1:description>
+					<d2p1:quantity>2,5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2013</d6p1:code>
+							<d6p1:description>PRENSA I</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>36.700.00146.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>87.036.00025.N</d6p1:code>
+						<d6p1:material>ARM INOX 304 L Ø3,07</d6p1:material>
+						<d6p1:quantity>2,75</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB INOX (1/8 X 15,00) PL</d2p1:description>
+					<d2p1:quantity>2,5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>MI</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020709                      PEDIDO : 038714               EMISSÃO : 16/06/2023              SAÍDA : 23/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 1438 - DFIX INDUSTRIA DE FERRAMENTAS E PLASTICOS LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0083 - TRANS MUNARETTI LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   36.700.00241.N     RB INOX (1/8 X 9,00) PL (CABEÇA Ø5,50)                              MI                    2,5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      2,25   KG  _______    87.036.00025.N ARM INOX 304 L Ø3,07                     2013 PRENSA I                  __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   36.700.00146.N     RB INOX (1/8 X 15,00) PL                                            MI                    2,5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      2,75   KG  _______    87.036.00025.N ARM INOX 304 L Ø3,07                     2013 PRENSA I                  __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : VERBAL EDUARDO</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020709</d2p1:order>
+			<d2p1:startDate>16/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>1574 - LF AGRO MAQUINAS E EQUIPAMENTOS LTDA</d2p1:client>
+			<d2p1:endDate>28/07/2023</d2p1:endDate>
+			<d2p1:id>038715</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.330.00008.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00140.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø6,20</d6p1:material>
+						<d6p1:quantity>20</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (1/4 X 9,50) RD</d2p1:description>
+					<d2p1:quantity>20</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2011</d6p1:code>
+							<d6p1:description>PRENSA HC25 CAP 8,00MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>KG</d2p1:unit>
+				</d2p1:Item>
+				<d2p1:Item>
+					<d2p1:code>30.330.00007.N</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00140.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø6,20</d6p1:material>
+						<d6p1:quantity>20</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>RB MAC FE (1/4 X 44,40) RD</d2p1:description>
+					<d2p1:quantity>20</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:unit>KG</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020715                      PEDIDO : 038715               EMISSÃO : 16/06/2023              SAÍDA : 28/07/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 1574 - LF AGRO MAQUINAS E EQUIPAMENTOS LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0018 - EXPRESSO SAO MIGUEL </d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.330.00008.N     RB MAC FE (1/4 X 9,50) RD                                           KG                     20     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        20   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2011 PRENSA HC25 CAP 8,00MM    __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   30.330.00007.N     RB MAC FE (1/4 X 44,40) RD                                          KG                     20     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>        20   KG  _______    80.030.00140.N ARM FE 1004 Ø6,20                        2011 PRENSA HC25 CAP 8,00MM    __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 21181</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020715</d2p1:order>
+			<d2p1:startDate>16/06/2023</d2p1:startDate>
+		</d2p1:Note>
+		<d2p1:Note>
+			<d2p1:client>0007 - ALTERNATIVA COMPONENTES LTDA</d2p1:client>
+			<d2p1:endDate>04/07/2023</d2p1:endDate>
+			<d2p1:id>038716</d2p1:id>
+			<d2p1:items>
+				<d2p1:Item>
+					<d2p1:code>30.360.00284.B</d2p1:code>
+					<d2p1:composition xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:code>80.030.00090.N</d6p1:code>
+						<d6p1:material>ARM FE 1004 Ø5,20</d6p1:material>
+						<d6p1:quantity>32,5</d6p1:quantity>
+						<d6p1:unit>KG</d6p1:unit>
+					</d2p1:composition>
+					<d2p1:description>PF FE (M6 ESQUERDA X 31,00) CAB. QUADR. 17425</d2p1:description>
+					<d2p1:quantity>5</d2p1:quantity>
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
+					<d2p1:unit>ML</d2p1:unit>
+				</d2p1:Item>
+			</d2p1:items>
+			<d2p1:lines xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+				<d4p1:string></d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   Digital Way                                           Vabene                                                    DATA : 16/06/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   ORDEM DE PRODUÇÃO: 020720                      PEDIDO : 038716               EMISSÃO : 16/06/2023              SAÍDA : 04/07/2023</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CLIENTE : 0007 - ALTERNATIVA COMPONENTES LTDA</d4p1:string>
+				<d4p1:string>   REQUISITANTE :                                           APLICAÇÃO : </d4p1:string>
+				<d4p1:string>   TRANSPORTADORA : 0061 - TRANSPORTADORA VEXPRESS LTDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   CODIGO             PRODUTO                                                             UNIDADE        QUANTIDADE     QTD PRODUZIDA</d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   30.360.00284.B     PF FE (M6 ESQUERDA X 31,00) CAB. QUADR. 17425                       ML                      5     _____________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>                            COMPOSIÇÃO                                              SETORES</d4p1:string>
+				<d4p1:string>       QTD  UND  QTD OCUP.  CODIGO         MATERIAL                                 CÓD. DESCRIÇÃO                 DATA/ASS.</d4p1:string>
+				<d4p1:string>      32,5   KG  _______    80.030.00090.N ARM FE 1004 Ø5,20                        2009 PRENSA JBF-10B4S          __________________</d4p1:string>
+				<d4p1:string>                                                                                    2004 LAMINADORA DE ROSCA CTR 8 __________________</d4p1:string>
+				<d4p1:string>                                                                                    2029 EXPEDIÇÃO CONFORMAÇÃO     __________________</d4p1:string>
+				<d4p1:string>                                                                                    0006 ESCRITORIO                __________________</d4p1:string>
+				<d4p1:string></d4p1:string>
+				<d4p1:string>   ----------------------------------------------------------------------------------------------------------------------------------</d4p1:string>
+				<d4p1:string>   Observações : 41148</d4p1:string>
+			</d2p1:lines>
+			<d2p1:order>020720</d2p1:order>
+			<d2p1:startDate>16/06/2023</d2p1:startDate>
+		</d2p1:Note>
+	</notes>
+</DataBase>

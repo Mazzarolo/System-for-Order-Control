@@ -3,20 +3,25 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Objects
 {
+    [DataContract]
     class Note
     {
-        private ArrayList lines = new ArrayList();
-        private ArrayList items = new ArrayList();
-        private string order, id, startDate, endDate, client;
+        [DataMember] private List<String> lines;
+        [DataMember] private List<Item> items;
+        [DataMember] private string order, id, startDate, endDate, client;
 
         public Note(string path)
         {
+            lines = new List<string>();
+            items = new List<Item>();
+
             using (StreamReader sr = new StreamReader(path, Encoding.GetEncoding("iso-8859-1")))
             {
                 string line;
@@ -59,7 +64,7 @@ namespace Objects
                     string sectorCode = lines[i].ToString().Substring(84, 4).Replace(" ", "");
                     if(sectorCode.Length == 4 && !sectorCode.Equals("----"))
                     {
-                        ((Item)items[items.Count - 1]).AddSector(new Sector(sectorCode, Regex.Split(lines[i].ToString().Substring(89), @" {2,8}")[0]));
+                        ((Item)items[items.Count - 1]).AddSector(new Sector(sectorCode, Regex.Split(lines[i].ToString().Substring(89), @" {2,8}")[0].Replace(" _", "").Replace("_", "")));
                     }
                     if (lines[i + 1].ToString().Replace(" ", "").Length == 0)
                     {
@@ -103,6 +108,11 @@ namespace Objects
                 Console.WriteLine("Item " + i++ + ":");
                 item.Print();
             }
+        }
+
+        public string GetOrder()
+        {
+            return order;
         }
     }
 }

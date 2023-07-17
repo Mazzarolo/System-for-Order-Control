@@ -2,16 +2,18 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Objects
 {
+    [DataContract]
     class Item
     {
-        private string code, description, quantity, unit;
-        private Composition composition;
-        private List<Sector> sectors;
+        [DataMember] private string code, description, quantity, unit;
+        [DataMember] private Composition composition;
+        [DataMember] private List<Sector> sectors;
 
         public Item(string code, string description, string quantity, string unit)
         {

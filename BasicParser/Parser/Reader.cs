@@ -48,5 +48,10 @@ namespace Parser
                 file.Parse();
             }
         }
+
+        public List<Note> getFiles()
+        {
+            return files;
+        }
     }
 }

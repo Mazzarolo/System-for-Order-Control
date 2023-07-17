@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BasicParser.Objects
 {
-    internal class Sector
+    [DataContract]
+    class Sector
     {
-        private string code, description;
+        [DataMember] private string code, description;
 
         public Sector(string code, string description)
         {

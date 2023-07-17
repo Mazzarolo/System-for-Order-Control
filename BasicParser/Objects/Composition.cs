@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BasicParser.Objects
 {
+    [DataContract]
     class Composition
     {
-        string code, material, quantity, unit;
-
+        [DataMember] private string code, material, quantity, unit;
         public Composition(string code, string material, string quantity, string unit)
         {
             this.code = code;

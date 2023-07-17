@@ -13,3 +13,18 @@ J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\refint\BasicParser.
 J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.pdb
 J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.genruntimeconfig.cache
 J:\Programação\C#\BasicParser\BasicParser\obj\Debug\net6.0\ref\BasicParser.dll
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.exe
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.deps.json
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.runtimeconfig.json
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.dll
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\bin\Debug\net6.0\BasicParser.pdb
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.csproj.AssemblyReference.cache
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.AssemblyInfoInputs.cache
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.AssemblyInfo.cs
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.csproj.CoreCompileInputs.cache
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.dll
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\refint\BasicParser.dll
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.pdb
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\BasicParser.genruntimeconfig.cache
+C:\Users\jdrma\Documentos\Programação\Codigos C#\BasicParser\BasicParser\obj\Debug\net6.0\ref\BasicParser.dll
