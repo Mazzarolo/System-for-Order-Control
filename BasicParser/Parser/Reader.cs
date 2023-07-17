@@ -53,5 +53,10 @@ namespace Parser
         {
             return files;
         }
+
+        public void Clear()
+        {
+            files.Clear();
+        }
     }
 }
