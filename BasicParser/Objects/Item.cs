@@ -66,10 +66,10 @@ namespace Objects
 
         public void PrintComposition()
         {
-            Console.WriteLine("Código: " + composition.GetCode() + ".");
-            Console.WriteLine("Material: " + composition.GetMaterial() + ".");
-            Console.WriteLine("Quantidade: " + composition.GetQuantity() + ".");
-            Console.WriteLine("Unidade: " + composition.GetUnit() + ".");
+            Console.WriteLine("\t\t\tCódigo: " + composition.GetCode() + ".");
+            Console.WriteLine("\t\t\tMaterial: " + composition.GetMaterial() + ".");
+            Console.WriteLine("\t\t\tQuantidade: " + composition.GetQuantity() + ".");
+            Console.WriteLine("\t\t\tUnidade: " + composition.GetUnit() + ".");
             Console.WriteLine();
         }
 
@@ -83,13 +83,13 @@ namespace Objects
 
         public void Print()
         {
-            Console.WriteLine("Código: " + code + ".");
-            Console.WriteLine("Descrição: " + description + ".");
-            Console.WriteLine("Quantidade: " + quantity + ".");
-            Console.WriteLine("Unidade: " + unit + ".");
-            Console.WriteLine("Composição:");
+            Console.WriteLine("\t\tCódigo: " + code + ".");
+            Console.WriteLine("\t\tDescrição: " + description + ".");
+            Console.WriteLine("\t\tQuantidade: " + quantity + ".");
+            Console.WriteLine("\t\tUnidade: " + unit + ".");
+            Console.WriteLine("\n\t\tComposição:");
             PrintComposition();
-            Console.WriteLine("Setores:");
+            Console.WriteLine("\t\tSetores:");
             PrintSectors();
             Console.WriteLine();
         }

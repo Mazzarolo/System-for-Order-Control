@@ -41,9 +41,39 @@ namespace Data
             int i = 1;
             foreach (Note note in notes)
             {
-                Console.WriteLine("Nota {0}:", i++);
+                Console.WriteLine("Ordem {0}:", i++);
                 note.PrintInfo();
             }
+        }
+
+        public bool PrintInfo(List<string> startDates, List<string> endDates, List<string> sectors)
+        {
+            int i = 1;
+            Console.WriteLine("\n\n\n\n--------------------------------------------------------------------------\n");
+            foreach (Note note in notes)
+            {
+                bool startOk = false, endOk = false, sectorsOk = false;
+                if(startDates.Count() == 0)
+                    startOk = true;
+                else
+                    startOk = note.StartDateIsBetween(startDates[0], startDates[1]);
+                if(endDates.Count() == 0)
+                    endOk = true;
+                else
+                    endOk = note.EndDateIsBetween(endDates[0], endDates[1]);
+                if(sectors.Count == 0)
+                    sectorsOk = true;
+                if(startOk && endOk && sectorsOk)
+                {
+                    Console.WriteLine("Ordem {0}:", i++);
+                    note.PrintInfo();
+                }
+            }
+
+            if (i == 1)
+                return false;
+            else
+                return true;
         }
     }
 }

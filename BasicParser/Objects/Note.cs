@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
@@ -59,7 +60,7 @@ namespace Objects
                                                                               lines[i].ToString().Substring(0, 10).Replace(" ", ""),
                                                                               lines[i].ToString().Substring(13, 2).Replace(" ", "")));
                 
-                while (i < lines.Count - 6)
+                while (i < lines.Count - 2)
                 {
                     string sectorCode = lines[i].ToString().Substring(84, 4).Replace(" ", "");
                     if(sectorCode.Length == 4 && !sectorCode.Equals("----"))
@@ -93,6 +94,35 @@ namespace Objects
             }
         }
 
+        private int TurnDateToNumber(string date)
+        {
+            return Int32.Parse(date.Substring(0, 2)) + Int32.Parse(date.Substring(3, 2)) * 100
+                    + Int32.Parse(date.Substring(6, 4)) * 10000;
+        }
+
+        public bool StartDateIsBetween(string start, string end)
+        {
+            return TurnDateToNumber(startDate) > TurnDateToNumber(start) && TurnDateToNumber(startDate) < TurnDateToNumber(end);
+        }
+
+        public bool EndDateIsBetween(string start, string end)
+        {
+            return TurnDateToNumber(endDate) > TurnDateToNumber(start) && TurnDateToNumber(endDate) < TurnDateToNumber(end);
+        }
+
+        public List<string> GetSectors()
+        {
+            List<string> list = new List<string>();
+            foreach (Item item in items)
+            {
+                foreach (Sector sector in item.GetSectors())
+                {
+                    list.Add(sector.GetDescription());
+                }
+            }
+            return list;
+        }
+
         public void PrintInfo()
         {
             Console.WriteLine();
@@ -105,7 +135,7 @@ namespace Objects
             int i = 1;
             foreach (Item item in items)
             {
-                Console.WriteLine("Item " + i++ + ":");
+                Console.WriteLine("\tItem " + i++ + ":");
                 item.Print();
             }
         }

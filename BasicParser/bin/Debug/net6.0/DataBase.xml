@@ -146,7 +146,20 @@
 					</d2p1:composition>
 					<d2p1:description>PINO FE (10,00 X 30,40) COM ROSCA INT M6 7238</d2p1:description>
 					<d2p1:quantity>10000</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>UN</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -374,7 +387,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB MAC FE (5,90 X 26,00) PL 6152</d2p1:description>
 					<d2p1:quantity>40</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2011</d6p1:code>
+							<d6p1:description>PRENSA HC25 CAP 8,00MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -515,7 +541,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378</d2p1:description>
 					<d2p1:quantity>5</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2012</d6p1:code>
+							<d6p1:description>PRENSA LIAN TENG</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -642,6 +681,18 @@
 							<d6p1:code>2001</d6p1:code>
 							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
 						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2004</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 8</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
 					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
@@ -733,7 +784,20 @@
 					</d2p1:composition>
 					<d2p1:description>PINO FE (10,00 X 74,00) QUEBRA DEDO</d2p1:description>
 					<d2p1:quantity>7000</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2001</d6p1:code>
+							<d6p1:description>PRENSA JBP-13B5S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>PC</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -787,7 +851,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB STUB AL (9,80 X 12,50) PL C/ROSCA INT. 1/4</d2p1:description>
 					<d2p1:quantity>15</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -885,7 +962,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB INOX (5/16 X 18,00) PL</d2p1:description>
 					<d2p1:quantity>2</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2009</d6p1:code>
+							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -973,7 +1063,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB INOX (1/8 X 15,00) PL</d2p1:description>
 					<d2p1:quantity>2,5</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2013</d6p1:code>
+							<d6p1:description>PRENSA I</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>MI</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -1053,7 +1156,20 @@
 					</d2p1:composition>
 					<d2p1:description>RB MAC FE (1/4 X 44,40) RD</d2p1:description>
 					<d2p1:quantity>20</d2p1:quantity>
-					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects" />
+					<d2p1:sectors xmlns:d6p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+						<d6p1:Sector>
+							<d6p1:code>2011</d6p1:code>
+							<d6p1:description>PRENSA HC25 CAP 8,00MM</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
+						</d6p1:Sector>
+					</d2p1:sectors>
 					<d2p1:unit>KG</d2p1:unit>
 				</d2p1:Item>
 			</d2p1:items>
@@ -1111,6 +1227,18 @@
 						<d6p1:Sector>
 							<d6p1:code>2009</d6p1:code>
 							<d6p1:description>PRENSA JBF-10B4S</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2004</d6p1:code>
+							<d6p1:description>LAMINADORA DE ROSCA CTR 8</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>2029</d6p1:code>
+							<d6p1:description>EXPEDIÇÃO CONFORMAÇÃO</d6p1:description>
+						</d6p1:Sector>
+						<d6p1:Sector>
+							<d6p1:code>0006</d6p1:code>
+							<d6p1:description>ESCRITORIO</d6p1:description>
 						</d6p1:Sector>
 					</d2p1:sectors>
 					<d2p1:unit>ML</d2p1:unit>

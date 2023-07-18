@@ -30,7 +30,7 @@ namespace BasicParser.Objects
 
         public void Print()
         {
-            Console.WriteLine("Sector: {0} - {1}.", code, description);
+            Console.WriteLine("\t\t\tSector: {0} - {1}.", code, description);
         }
     }
 }
