@@ -102,12 +102,12 @@ namespace Objects
 
         public bool StartDateIsBetween(string start, string end)
         {
-            return TurnDateToNumber(startDate) > TurnDateToNumber(start) && TurnDateToNumber(startDate) < TurnDateToNumber(end);
+            return TurnDateToNumber(startDate) >= TurnDateToNumber(start) && TurnDateToNumber(startDate) <= TurnDateToNumber(end);
         }
 
         public bool EndDateIsBetween(string start, string end)
         {
-            return TurnDateToNumber(endDate) > TurnDateToNumber(start) && TurnDateToNumber(endDate) < TurnDateToNumber(end);
+            return TurnDateToNumber(endDate) >= TurnDateToNumber(start) && TurnDateToNumber(endDate) <= TurnDateToNumber(end);
         }
 
         public List<string> GetSectors()
@@ -121,6 +121,16 @@ namespace Objects
                 }
             }
             return list;
+        }
+
+        public List<Item> GetItems()
+        {
+            return items;
+        }
+
+        public string GetEndDate()
+        {
+            return endDate;
         }
 
         public void PrintInfo()

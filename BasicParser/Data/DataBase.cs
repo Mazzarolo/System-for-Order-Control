@@ -1,4 +1,5 @@
-﻿using Objects;
+﻿using BasicParser.Objects;
+using Objects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +12,16 @@ namespace Data
     [DataContract]
     class DataBase
     {
-        [DataMember]
-        private List<Note> notes;
+        [DataMember] private List<Note> notes;
+
+        [DataMember] private SectorManager sectorManager;
 
         public DataBase()
         {
             notes = new List<Note>();
+
+            sectorManager = new SectorManager();
+            sectorManager.Print();
         }
 
         public void AddNotes(List<Note> newNotes)
@@ -32,11 +37,29 @@ namespace Data
                     }
                 }
                 if(add)
+                {
                     notes.Add(newNote);
+                    int i = 0;
+                    foreach (Item item in newNote.GetItems())
+                    {
+                        string orderNumber = newNote.GetOrder() + "/" + i;
+                        SectorItem sectorItem = new SectorItem(orderNumber, item.GetCode(), item.GetDescription(), newNote.GetEndDate(),
+                                                                item.GetComposition(), item.GetSectors());
+                        sectorManager.AddItem(sectorItem);
+                    }
+                }
             }
         }
 
-        public void PrintInfo()
+        public void PrintItemsPerSector()
+        {
+            if (sectorManager != null)
+                sectorManager.Print();
+            else
+                Console.WriteLine("empty");
+        }
+
+        public void PrintOrders()
         {
             int i = 1;
             foreach (Note note in notes)
@@ -46,7 +69,20 @@ namespace Data
             }
         }
 
-        public bool PrintInfo(List<string> startDates, List<string> endDates, List<string> sectors)
+        public List<string> getSectors()
+        {
+            List<string> uniqueSectors = new List<string>();
+            foreach (Note note in notes)
+            {
+                foreach (string sector in note.GetSectors())
+                {
+                    uniqueSectors.Add(sector);
+                }
+            }
+            return uniqueSectors.Distinct().ToList();
+        }
+
+        public bool PrintOrders(List<string> startDates, List<string> endDates, List<string> sectors)
         {
             int i = 1;
             Console.WriteLine("\n\n\n\n--------------------------------------------------------------------------\n");
@@ -63,6 +99,19 @@ namespace Data
                     endOk = note.EndDateIsBetween(endDates[0], endDates[1]);
                 if(sectors.Count == 0)
                     sectorsOk = true;
+                else
+                {
+                    foreach (string uniqueSector in note.GetSectors())
+                    {
+                        foreach (string sector in sectors)
+                        {
+                            if (uniqueSector.Equals(sector))
+                            {
+                                sectorsOk = true;
+                            }
+                        }
+                    }
+                }
                 if(startOk && endOk && sectorsOk)
                 {
                     Console.WriteLine("Ordem {0}:", i++);

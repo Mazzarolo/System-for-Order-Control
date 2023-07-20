@@ -76,17 +76,47 @@ namespace Application
                 {
                     case '0':
                         Console.Clear();
-                        Console.WriteLine("-> Digite a menor data de emissão que voce deseja filtrar (dd/mm/aaaa)");
+                        Console.WriteLine("-> Digite a mais antiga data de emissão que voce deseja filtrar (dd/mm/aaaa)");
                         startDates.Clear();
                         startDates.Add(Console.ReadLine());
-                        Console.WriteLine("\n-> Digite a maior data de emissão que voce deseja filtrar (dd/mm/aaaa)");
+                        Console.WriteLine("\n-> Digite a mais recente data de emissão que voce deseja filtrar (dd/mm/aaaa)");
                         startDates.Add(Console.ReadLine());
                         Console.WriteLine("\n-> Filtro Adicionado!");
                         Console.WriteLine("\tPrecione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '1':
-
+                        Console.Clear();
+                        Console.WriteLine("-> Digite a mais antiga data de saída que voce deseja filtrar (dd/mm/aaaa)");
+                        endDates.Clear();
+                        endDates.Add(Console.ReadLine());
+                        Console.WriteLine("\n-> Digite a mais recente data de saída que voce deseja filtrar (dd/mm/aaaa)");
+                        endDates.Add(Console.ReadLine());
+                        Console.WriteLine("\n-> Filtro Adicionado!");
+                        Console.WriteLine("\tPrecione enter para continuar...");
+                        Console.ReadLine();
+                        break;
+                    case '2':
+                        Console.Clear();
+                        if(dataBase != null)
+                        {
+                            Console.WriteLine("-> Setores: ");
+                            int i = 0;
+                            List<string> uniqueSectors = dataBase.getSectors();
+                            foreach (string sector in uniqueSectors)
+                                Console.WriteLine("\t {0}) - {1}.", i++, sector);
+                            Console.WriteLine("-> Digite o indice do setor que quer filtrar: ");
+                            i = Int32.Parse(Console.ReadLine());
+                            sectors.Add(uniqueSectors[i]);
+                            Console.WriteLine("\n-> Filtro Adicionado!\n\tPrecione enter para continuar...");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.WriteLine("-> Banco de dados vazio!");
+                            Console.WriteLine("\tPrecione enter para continuar...");
+                            Console.ReadLine();
+                        }
                         break;
                     case '3':
                         startDates.Clear();
@@ -101,7 +131,7 @@ namespace Application
                         Console.Clear();
                         if (dataBase != null)
                         {
-                            if (!dataBase.PrintInfo(startDates, endDates, sectors))
+                            if (!dataBase.PrintOrders(startDates, endDates, sectors))
                             {
                                 Console.Clear();
                                 Console.WriteLine("-> Não há resultados para a busca selecionada!");
@@ -119,6 +149,23 @@ namespace Application
             }
         }
 
+        static void ItensMenu(Reader reader, DataBase dataBase)
+        {
+            Console.Clear();
+            if(dataBase != null)
+            {
+                dataBase.PrintItemsPerSector();
+            }
+            else
+            {
+                Console.WriteLine("-> Banco de dados vazio!");
+                Console.WriteLine("\tPrecione enter para continuar...");
+                Console.ReadLine();
+            }
+            Console.WriteLine("\n\tPrecione enter para continuar...");
+            Console.ReadLine();
+        }
+
         static void Menu(Reader reader, DataBase dataBase)
         {
             bool exit = false;
@@ -130,7 +177,8 @@ namespace Application
                 Console.WriteLine(" - Carregar Novas Ordens (0)");
                 Console.WriteLine(" - Mostrar Ordens (1)");
                 Console.WriteLine(" - Pesquisar Ordens (2)");
-                Console.WriteLine(" - Sair (3)");
+                Console.WriteLine(" - Mostrar Itens por Setor (3)");
+                Console.WriteLine(" - Sair (4)");
                 char key = Console.ReadKey().KeyChar;
                 switch(key)
                 {
@@ -143,7 +191,13 @@ namespace Application
                     case '1':
                         FilterMenu(reader, dataBase);
                         break;
+                    case '2':
+
+                        break;
                     case '3':
+                        ItensMenu(reader, dataBase);
+                        break;
+                    case '4':
                         exit = true;
                         break;
                 }
