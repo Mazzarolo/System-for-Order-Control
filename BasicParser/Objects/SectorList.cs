@@ -41,16 +41,22 @@ namespace Objects
             return sector;
         }
 
+        public bool IsEmpty()
+        {
+            return items.Count == 0;
+        }
+
         public void Print()
         {
             Console.WriteLine("\nSetor: {0}\n", sector.GetDescription());
 
             foreach (SectorItem item in items)
             {
-                Console.WriteLine("\n\t------------------------------------------------------------\n");
-                item.Print();
                 Console.WriteLine("\t------------------------------------------------------------");
+                Console.WriteLine("\t|                                                          |");
+                item.Print();
             }
+            Console.WriteLine("\t------------------------------------------------------------\n");
 
             Console.WriteLine("\n---------------------------------------------------------------------------------\n");
         }

@@ -68,21 +68,21 @@ namespace Objects
 
         private void PrintComposition()
         {
-            Console.WriteLine("\t\tMaterial: " + composition.GetMaterial() + ".");
-            Console.WriteLine("\t\tQuantidade: " + composition.GetQuantity() + ".");
-            Console.WriteLine("\t\tUnidade: " + composition.GetUnit() + ".");
-            Console.WriteLine();
+            Console.WriteLine("\t| \tMaterial:   {0, -39}{1, 0}", composition.GetMaterial(), "|");
+            Console.WriteLine("\t| \tQuantidade: {0, -13}{1, 27}", composition.GetQuantity(), "|");
+            Console.WriteLine("\t| \tUnidade: {0, 5}{1, 38}", composition.GetUnit(), "|");
+            Console.WriteLine("\t|                                                          |");
         }
 
         public void Print()
         {
-            Console.WriteLine("\tItem: " + orderNumber + ".");
-            Console.WriteLine("\tCódigo: " + code + ".");
-            Console.WriteLine("\tDescrição: " + description + ".");
-            Console.WriteLine("\tSaída: " + endDate + ".");
-            Console.WriteLine("\n\tComposição:");
+            Console.WriteLine("\t| Item: {0, 13}{1, 39}", orderNumber, "|");
+            Console.WriteLine("\t| Código: {0, 17}{1, 33}", code, "|");
+            Console.WriteLine("\t| Descrição: {0, -46}{1, 0}", description, "|");
+            Console.WriteLine("\t| Saída: {0, 14}{1, 37}", endDate, "|");
+            Console.WriteLine("\t|                                                          |");
+            Console.WriteLine("\t| Composição:{0, 47}", "|");
             PrintComposition();
-            Console.WriteLine();
         }
     }
 }

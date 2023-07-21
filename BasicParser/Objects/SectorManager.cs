@@ -33,10 +33,13 @@ namespace Objects
 
         public void Print()
         {
+            Console.WriteLine("\n\n\n\n\n\n---------------------------------------------------------------------------------\n");
+            Console.WriteLine("\t\t\tCONSULTA DE ITENS POR SETOR");
             Console.WriteLine("\n---------------------------------------------------------------------------------\n");
             foreach (SectorList sector in sectors)
             {
-                sector.Print();
+                if(!sector.IsEmpty())
+                    sector.Print();
             }
         }
     }
