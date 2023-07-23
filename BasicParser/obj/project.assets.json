@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\BasicParser.csproj",
-      "projectName": "BasicParser",
-      "projectPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\BasicParser.csproj",
+      "projectUniqueName": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj",
+      "projectName": "SystemApplication",
+      "projectPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj",
       "packagesPath": "C:\\Users\\jdrma\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicParser", "BasicParser\BasicParser.csproj", "{BA54BBDE-C0D8-4C81-9DCE-F90E300C84E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemApplication", "BasicParser\SystemApplication.csproj", "{BA54BBDE-C0D8-4C81-9DCE-F90E300C84E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
