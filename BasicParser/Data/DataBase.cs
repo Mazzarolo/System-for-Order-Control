@@ -69,7 +69,7 @@ namespace Data
             }
         }
 
-        public List<string> getSectors()
+        public List<string> GetSectors()
         {
             List<string> uniqueSectors = new List<string>();
             foreach (Note note in notes)
@@ -80,6 +80,26 @@ namespace Data
                 }
             }
             return uniqueSectors.Distinct().ToList();
+        }
+
+        public List<string> GetItemSectors()
+        {
+            return sectorManager.GetSectors();
+        }
+
+        public void PrintSector(int idx)
+        {
+            sectorManager.PrintSector(idx);
+        }
+
+        public void AdvanceItem(int sectorIdx, int itemIdx)
+        {
+            sectorManager.AdvanceItem(sectorIdx, itemIdx);
+        }
+
+        public void MoveItemInSector(int sectorIdx, int itemIdx, int pos)
+        {
+            sectorManager.MoveItemInSector(sectorIdx, itemIdx, pos);
         }
 
         public bool PrintOrders(List<string> startDates, List<string> endDates, List<string> sectors)

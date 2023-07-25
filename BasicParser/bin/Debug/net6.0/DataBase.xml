@@ -1278,34 +1278,6 @@
 			<d2p1:SectorList>
 				<d2p1:items>
 					<d2p1:SectorItem>
-						<d2p1:code>30.330.00242.N</d2p1:code>
-						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
-							<d7p1:code>80.030.00140.N</d7p1:code>
-							<d7p1:material>ARM FE 1004 Ø6,20</d7p1:material>
-							<d7p1:quantity>22,4</d7p1:quantity>
-							<d7p1:unit>KG</d7p1:unit>
-						</d2p1:composition>
-						<d2p1:currentSectorIdx>0</d2p1:currentSectorIdx>
-						<d2p1:description>RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378</d2p1:description>
-						<d2p1:endDate>07/07/2023</d2p1:endDate>
-						<d2p1:orderNumber>020624/0</d2p1:orderNumber>
-						<d2p1:positionModified>false</d2p1:positionModified>
-						<d2p1:sectors xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
-							<d7p1:Sector>
-								<d7p1:code>2012</d7p1:code>
-								<d7p1:description>PRENSA LIAN TENG</d7p1:description>
-							</d7p1:Sector>
-							<d7p1:Sector>
-								<d7p1:code>2029</d7p1:code>
-								<d7p1:description>EXPEDIÇÃO CONFORMAÇÃO</d7p1:description>
-							</d7p1:Sector>
-							<d7p1:Sector>
-								<d7p1:code>0006</d7p1:code>
-								<d7p1:description>ESCRITORIO</d7p1:description>
-							</d7p1:Sector>
-						</d2p1:sectors>
-					</d2p1:SectorItem>
-					<d2p1:SectorItem>
 						<d2p1:code>30.330.00289.N</d2p1:code>
 						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
 							<d7p1:code>80.030.00060.N</d7p1:code>
@@ -1317,7 +1289,7 @@
 						<d2p1:description>RB MAC FE (4,70 X 18,50) PL - 91</d2p1:description>
 						<d2p1:endDate>10/07/2023</d2p1:endDate>
 						<d2p1:orderNumber>020059/0</d2p1:orderNumber>
-						<d2p1:positionModified>false</d2p1:positionModified>
+						<d2p1:positionModified>true</d2p1:positionModified>
 						<d2p1:sectors xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
 							<d7p1:Sector>
 								<d7p1:code>2012</d7p1:code>
@@ -2054,6 +2026,34 @@
 						</d2p1:sectors>
 					</d2p1:SectorItem>
 					<d2p1:SectorItem>
+						<d2p1:code>30.330.00008.N</d2p1:code>
+						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+							<d7p1:code>80.030.00140.N</d7p1:code>
+							<d7p1:material>ARM FE 1004 Ø6,20</d7p1:material>
+							<d7p1:quantity>20</d7p1:quantity>
+							<d7p1:unit>KG</d7p1:unit>
+						</d2p1:composition>
+						<d2p1:currentSectorIdx>0</d2p1:currentSectorIdx>
+						<d2p1:description>RB MAC FE (1/4 X 9,50) RD</d2p1:description>
+						<d2p1:endDate>28/07/2023</d2p1:endDate>
+						<d2p1:orderNumber>020715/0</d2p1:orderNumber>
+						<d2p1:positionModified>true</d2p1:positionModified>
+						<d2p1:sectors xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+							<d7p1:Sector>
+								<d7p1:code>2011</d7p1:code>
+								<d7p1:description>PRENSA HC25 CAP 8,00MM</d7p1:description>
+							</d7p1:Sector>
+							<d7p1:Sector>
+								<d7p1:code>2029</d7p1:code>
+								<d7p1:description>EXPEDIÇÃO CONFORMAÇÃO</d7p1:description>
+							</d7p1:Sector>
+							<d7p1:Sector>
+								<d7p1:code>0006</d7p1:code>
+								<d7p1:description>ESCRITORIO</d7p1:description>
+							</d7p1:Sector>
+						</d2p1:sectors>
+					</d2p1:SectorItem>
+					<d2p1:SectorItem>
 						<d2p1:code>30.331.00038.A</d2p1:code>
 						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
 							<d7p1:code>80.030.00140.N</d7p1:code>
@@ -2109,34 +2109,6 @@
 							</d7p1:Sector>
 						</d2p1:sectors>
 					</d2p1:SectorItem>
-					<d2p1:SectorItem>
-						<d2p1:code>30.330.00008.N</d2p1:code>
-						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
-							<d7p1:code>80.030.00140.N</d7p1:code>
-							<d7p1:material>ARM FE 1004 Ø6,20</d7p1:material>
-							<d7p1:quantity>20</d7p1:quantity>
-							<d7p1:unit>KG</d7p1:unit>
-						</d2p1:composition>
-						<d2p1:currentSectorIdx>0</d2p1:currentSectorIdx>
-						<d2p1:description>RB MAC FE (1/4 X 9,50) RD</d2p1:description>
-						<d2p1:endDate>28/07/2023</d2p1:endDate>
-						<d2p1:orderNumber>020715/0</d2p1:orderNumber>
-						<d2p1:positionModified>false</d2p1:positionModified>
-						<d2p1:sectors xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
-							<d7p1:Sector>
-								<d7p1:code>2011</d7p1:code>
-								<d7p1:description>PRENSA HC25 CAP 8,00MM</d7p1:description>
-							</d7p1:Sector>
-							<d7p1:Sector>
-								<d7p1:code>2029</d7p1:code>
-								<d7p1:description>EXPEDIÇÃO CONFORMAÇÃO</d7p1:description>
-							</d7p1:Sector>
-							<d7p1:Sector>
-								<d7p1:code>0006</d7p1:code>
-								<d7p1:description>ESCRITORIO</d7p1:description>
-							</d7p1:Sector>
-						</d2p1:sectors>
-					</d2p1:SectorItem>
 				</d2p1:items>
 				<d2p1:sector xmlns:d5p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
 					<d5p1:code>2011</d5p1:code>
@@ -2170,6 +2142,34 @@
 							<d7p1:Sector>
 								<d7p1:code>2009</d7p1:code>
 								<d7p1:description>PRENSA JBF-10B4S</d7p1:description>
+							</d7p1:Sector>
+						</d2p1:sectors>
+					</d2p1:SectorItem>
+					<d2p1:SectorItem>
+						<d2p1:code>30.330.00242.N</d2p1:code>
+						<d2p1:composition xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+							<d7p1:code>80.030.00140.N</d7p1:code>
+							<d7p1:material>ARM FE 1004 Ø6,20</d7p1:material>
+							<d7p1:quantity>22,4</d7p1:quantity>
+							<d7p1:unit>KG</d7p1:unit>
+						</d2p1:composition>
+						<d2p1:currentSectorIdx>1</d2p1:currentSectorIdx>
+						<d2p1:description>RB MAC FE (6,35 X 12,70) PL C/ CHANFRO 07.378</d2p1:description>
+						<d2p1:endDate>07/07/2023</d2p1:endDate>
+						<d2p1:orderNumber>020624/0</d2p1:orderNumber>
+						<d2p1:positionModified>true</d2p1:positionModified>
+						<d2p1:sectors xmlns:d7p1="http://schemas.datacontract.org/2004/07/BasicParser.Objects">
+							<d7p1:Sector>
+								<d7p1:code>2012</d7p1:code>
+								<d7p1:description>PRENSA LIAN TENG</d7p1:description>
+							</d7p1:Sector>
+							<d7p1:Sector>
+								<d7p1:code>2029</d7p1:code>
+								<d7p1:description>EXPEDIÇÃO CONFORMAÇÃO</d7p1:description>
+							</d7p1:Sector>
+							<d7p1:Sector>
+								<d7p1:code>0006</d7p1:code>
+								<d7p1:description>ESCRITORIO</d7p1:description>
 							</d7p1:Sector>
 						</d2p1:sectors>
 					</d2p1:SectorItem>

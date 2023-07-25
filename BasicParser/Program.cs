@@ -82,7 +82,7 @@ namespace Application
                         Console.WriteLine("\n-> Digite a mais recente data de emissão que voce deseja filtrar (dd/mm/aaaa)");
                         startDates.Add(Console.ReadLine());
                         Console.WriteLine("\n-> Filtro Adicionado!");
-                        Console.WriteLine("\tPrecione enter para continuar...");
+                        Console.WriteLine("\tPressione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '1':
@@ -93,7 +93,7 @@ namespace Application
                         Console.WriteLine("\n-> Digite a mais recente data de saída que voce deseja filtrar (dd/mm/aaaa)");
                         endDates.Add(Console.ReadLine());
                         Console.WriteLine("\n-> Filtro Adicionado!");
-                        Console.WriteLine("\tPrecione enter para continuar...");
+                        Console.WriteLine("\tPressione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '2':
@@ -102,19 +102,19 @@ namespace Application
                         {
                             Console.WriteLine("-> Setores: ");
                             int i = 0;
-                            List<string> uniqueSectors = dataBase.getSectors();
+                            List<string> uniqueSectors = dataBase.GetSectors();
                             foreach (string sector in uniqueSectors)
                                 Console.WriteLine("\t {0}) - {1}.", i++, sector);
                             Console.WriteLine("-> Digite o indice do setor que quer filtrar: ");
                             i = Int32.Parse(Console.ReadLine());
                             sectors.Add(uniqueSectors[i]);
-                            Console.WriteLine("\n-> Filtro Adicionado!\n\tPrecione enter para continuar...");
+                            Console.WriteLine("\n-> Filtro Adicionado!\n\tPressione enter para continuar...");
                             Console.ReadLine();
                         }
                         else
                         {
                             Console.WriteLine("-> Banco de dados vazio!");
-                            Console.WriteLine("\tPrecione enter para continuar...");
+                            Console.WriteLine("\tPressione enter para continuar...");
                             Console.ReadLine();
                         }
                         break;
@@ -124,7 +124,7 @@ namespace Application
                         sectors.Clear();
                         Console.Clear();
                         Console.WriteLine("-> Filtros Removidos!");
-                        Console.WriteLine("\tPrecione enter para continuar...");
+                        Console.WriteLine("\tPressione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '4':
@@ -139,7 +139,7 @@ namespace Application
                         }
                         else
                             Console.WriteLine("-> Não há resultados para a busca selecionada!");
-                        Console.WriteLine("\tPrecione enter para continuar...");
+                        Console.WriteLine("\tPressione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '5':
@@ -151,19 +151,95 @@ namespace Application
 
         static void ItensMenu(Reader reader, DataBase dataBase)
         {
-            Console.Clear();
-            if(dataBase != null)
+            bool exit = false;
+
+            while (!exit)
             {
-                dataBase.PrintItemsPerSector();
+                Console.Clear();
+                Console.WriteLine("\tDigite a opção desejada:");
+                Console.WriteLine(" - Mudar setor de um item (0)");
+                Console.WriteLine(" - Baixar item (1)");
+                Console.WriteLine(" - Mudar a ordem de um item (2)");
+                Console.WriteLine(" - Mostrar Itens por Setor (3)");
+                Console.WriteLine(" - Voltar (4)");
+                char key = Console.ReadKey().KeyChar;
+                switch (key)
+                {
+                    case '0':
+
+                        break;
+                    case '1':
+                        Console.Clear();
+                        if (dataBase != null)
+                        {
+                            Console.WriteLine("-> Setores: ");
+                            int i = 0;
+                            List<string> uniqueSectors = dataBase.GetItemSectors();
+                            foreach (string sector in uniqueSectors)
+                                Console.WriteLine("\t {0}) - {1}.", i++, sector);
+                            Console.WriteLine("-> Digite o indice do setor que quer baixar um item: ");
+                            i = Int32.Parse(Console.ReadLine());
+                            dataBase.PrintSector(i);
+                            Console.WriteLine("-> Digite o indice do item que deseja baixar: ");
+                            int j = Int32.Parse(Console.ReadLine());
+                            dataBase.AdvanceItem(i, j);
+                            Console.WriteLine("\n-> Item Baixado!\n\tPressione enter para continuar...");
+                            SaveData(dataBase, "DataBase.xml");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.WriteLine("-> Banco de dados vazio!");
+                            Console.WriteLine("\tPressione enter para continuar...");
+                            Console.ReadLine();
+                        }
+                        break;
+                    case '2':
+                        Console.Clear();
+                        if (dataBase != null)
+                        {
+                            Console.WriteLine("-> Setores: ");
+                            int i = 0;
+                            List<string> uniqueSectors = dataBase.GetItemSectors();
+                            foreach (string sector in uniqueSectors)
+                                Console.WriteLine("\t {0}) - {1}.", i++, sector);
+                            Console.WriteLine("-> Digite o indice do setor que quer mover um item: ");
+                            i = Int32.Parse(Console.ReadLine());
+                            dataBase.PrintSector(i);
+                            Console.WriteLine("-> Digite o indice do item que deseja mover: ");
+                            int j = Int32.Parse(Console.ReadLine());
+                            Console.WriteLine("\n-> Digite o indice em que o item ficará: ");
+                            int k = Int32.Parse(Console.ReadLine());
+                            dataBase.MoveItemInSector(i, j, k);
+                            Console.WriteLine("\n-> Item Movido!\n\tPressione enter para continuar...");
+                            SaveData(dataBase, "DataBase.xml");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.WriteLine("-> Banco de dados vazio!");
+                            Console.WriteLine("\tPressione enter para continuar...");
+                            Console.ReadLine();
+                        }
+                        break;
+                    case '3':
+                        Console.Clear();
+                        if (dataBase != null)
+                        {
+                            dataBase.PrintItemsPerSector();
+                        }
+                        else
+                        {
+                            Console.WriteLine("-> Banco de dados vazio!");
+                        }
+                        Console.WriteLine("\n\tPressione enter para continuar...");
+                        Console.ReadLine();
+                        break;
+                    case '4':
+                        exit = true;
+                        break;
+                }
             }
-            else
-            {
-                Console.WriteLine("-> Banco de dados vazio!");
-                Console.WriteLine("\tPrecione enter para continuar...");
-                Console.ReadLine();
-            }
-            Console.WriteLine("\n\tPrecione enter para continuar...");
-            Console.ReadLine();
         }
 
         static void Menu(Reader reader, DataBase dataBase)
@@ -185,7 +261,7 @@ namespace Application
                     case '0':
                         dataBase = LoadNewOrders(reader, dataBase);
                         Console.Clear();
-                        Console.WriteLine("-> Novas Ordens Adicionadas!\n\tPrecione enter para continuar...");
+                        Console.WriteLine("-> Novas Ordens Adicionadas!\n\tPressione enter para continuar...");
                         Console.ReadLine();
                         break;
                     case '1':

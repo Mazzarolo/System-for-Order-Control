@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj": {}
+    "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\SystemApplicaton\\BasicParser\\SystemApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj": {
+    "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\SystemApplicaton\\BasicParser\\SystemApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj",
+        "projectUniqueName": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\SystemApplicaton\\BasicParser\\SystemApplication.csproj",
         "projectName": "SystemApplication",
-        "projectPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\SystemApplication.csproj",
+        "projectPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\SystemApplicaton\\BasicParser\\SystemApplication.csproj",
         "packagesPath": "C:\\Users\\jdrma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\BasicParser\\BasicParser\\obj\\",
+        "outputPath": "C:\\Users\\jdrma\\Documentos\\Programação\\Codigos C#\\SystemApplicaton\\BasicParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jdrma\\AppData\\Roaming\\NuGet\\NuGet.Config",

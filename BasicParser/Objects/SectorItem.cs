@@ -61,6 +61,11 @@ namespace Objects
             return positionModified;
         }
 
+        public void SetModified(bool status)
+        {
+            positionModified = status;
+        }
+
         public Sector GetSector()
         {
             return sectors[currentSectorIdx];
@@ -74,8 +79,9 @@ namespace Objects
             Console.WriteLine("\t|                                                          |");
         }
 
-        public void Print()
+        public void Print(int idx)
         {
+            Console.WriteLine("\t| Índice:    {0, -46}{1, 0}", idx, "|");
             Console.WriteLine("\t| Item: {0, 13}{1, 39}", orderNumber, "|");
             Console.WriteLine("\t| Código: {0, 17}{1, 33}", code, "|");
             Console.WriteLine("\t| Descrição: {0, -46}{1, 0}", description, "|");

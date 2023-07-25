@@ -36,6 +36,20 @@ namespace Objects
             items.Add(newItem);
         }
 
+        public void AddItem(SectorItem newItem, int idx)
+        {
+            newItem.SetModified(true);
+            items.Insert(idx, newItem);
+        }
+
+        public SectorItem RemoveItem(int idx)
+        {
+            SectorItem item = items[idx];
+            items.RemoveAt(idx);
+            item.SetModified(false);
+            return item;
+        }
+
         public Sector GetSector()
         {
             return sector;
@@ -46,15 +60,22 @@ namespace Objects
             return items.Count == 0;
         }
 
+        public int Count()
+        {
+            return items.Count();
+        }
+
         public void Print()
         {
             Console.WriteLine("\nSetor: {0}\n", sector.GetDescription());
 
+            int i = 0;
             foreach (SectorItem item in items)
             {
                 Console.WriteLine("\t------------------------------------------------------------");
                 Console.WriteLine("\t|                                                          |");
-                item.Print();
+                item.Print(i);
+                i++;
             }
             Console.WriteLine("\t------------------------------------------------------------\n");
 
